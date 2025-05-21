@@ -1,0 +1,12 @@
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\AjaxIISWebAPI.exe
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\AjaxIISWebAPI.dll
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\AjaxIISWebAPI.deps.json
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\AjaxIISWebAPI.runtimeconfig.json
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\AjaxIISWebAPI.pdb
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Scott\source\repos\AjaxIISWebAPI\AjaxIISWebAPI\obj\Release\net7.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

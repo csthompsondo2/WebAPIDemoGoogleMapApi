@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jPmMBPLF3vXXPzMNzPm1TH6F4VYc0yifHghMM6R5JgY=",
+  "Source": "AjaxIISWebAPI",
+  "BasePath": "_content/AjaxIISWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
